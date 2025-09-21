@@ -1,0 +1,14 @@
+{
+  "id" : "20250912-06",
+  "setupTime" : "2025-09-12T08:10",
+  "side" : "short",
+  "setupPrice" : "6587.33",
+  "target" : "6582.65",
+  "stoploss" : "6589.30",
+  "status" : "setup",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Reversed sharply after hitting VWAP."
+}

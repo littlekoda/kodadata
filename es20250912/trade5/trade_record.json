@@ -1,0 +1,19 @@
+{
+  "id" : "20250912-05",
+  "setupTime" : "2025-09-12T05:10",
+  "side" : "long",
+  "setupPrice" : "6583.34",
+  "target" : "6587.74",
+  "stoploss" : "6582.54",
+  "entryTime" : "2025-09-12T05:00",
+  "entryPrice" : "6583.34",
+  "exitTime" : "2025-09-12T04:45",
+  "exitPrice" : "6582.54",
+  "pnl" : "-0.81",
+  "status" : "closed",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Reversed sharply after hitting VWAP."
+}

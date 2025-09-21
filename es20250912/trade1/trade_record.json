@@ -1,0 +1,14 @@
+{
+  "id" : "20250912-01",
+  "setupTime" : "2025-09-11T16:50",
+  "side" : "long",
+  "setupPrice" : "6591.99",
+  "target" : "6594.52",
+  "stoploss" : "6591.12",
+  "status" : "canceled",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+}

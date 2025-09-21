@@ -1,0 +1,16 @@
+{
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-11T08:20",
+  "side" : "short",
+  "setupPrice" : "6556.12",
+  "target" : "6539.58",
+  "stoploss" : "6558.56",
+  "entryTime" : "2025-09-11T08:20",
+  "entryPrice" : "6556.12",
+  "status" : "trading",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Failed breakout with bearish divergence in RSI."
+}

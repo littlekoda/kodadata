@@ -1,0 +1,14 @@
+{
+  "id" : "20250919-01",
+  "setupTime" : "2025-09-19T06:30",
+  "side" : "short",
+  "setupPrice" : "6694.93",
+  "target" : "6692.75",
+  "stoploss" : "6697.38",
+  "status" : "canceled",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Reversed sharply after hitting VWAP."
+}

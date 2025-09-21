@@ -1,0 +1,16 @@
+{
+  "id" : "20250912-02",
+  "setupTime" : "2025-09-11T22:45",
+  "side" : "short",
+  "setupPrice" : "6589.01",
+  "target" : "6587.32",
+  "stoploss" : "6592.45",
+  "entryTime" : "2025-09-11T21:25",
+  "entryPrice" : "6589.01",
+  "status" : "trading",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Broke above resistance with increasing volume."
+}

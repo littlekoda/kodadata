@@ -1,0 +1,14 @@
+{
+  "id" : "20250919-04",
+  "setupTime" : "2025-09-19T12:45",
+  "side" : "short",
+  "setupPrice" : "6711.34",
+  "target" : "6704.84",
+  "stoploss" : "6720.22",
+  "status" : "canceled",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Reversed sharply after hitting VWAP."
+}

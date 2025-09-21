@@ -1,0 +1,14 @@
+{
+  "id" : "20250911-02",
+  "setupTime" : "2025-09-12T06:20",
+  "side" : "short",
+  "setupPrice" : "6583.99",
+  "target" : "6580.89",
+  "stoploss" : "6587.76",
+  "status" : "canceled",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Trend continuation after pullback to EMA20."
+}
