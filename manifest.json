@@ -6,83 +6,128 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "2",
+      "tradeNo" : "1",
       "pnl" : "",
       "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "3",
-      "pnl" : "7.36",
+      "tradeNo" : "1",
+      "pnl" : "2.83",
       "status" : "closed",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "4",
+      "tradeNo" : "1",
       "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "5",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "6",
-      "pnl" : "-3.97",
-      "status" : "closed",
+      "status" : "setup",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
     "key" : "es20250918",
     "date" : "9/18/2025 (Thu.)",
-    "trades" : [ ]
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
   }, {
     "key" : "es20250917",
     "date" : "9/17/2025 (Wed.)",
-    "trades" : [ ]
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "canceled",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "canceled",
+      "tradeIcon" : "chart5m.png"
+    } ]
   }, {
     "key" : "es20250915",
     "date" : "9/15/2025 (Mon.)",
-    "trades" : [ ]
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "trading",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "trading",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "-2.14",
+      "status" : "closed",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
   }, {
     "key" : "es20250912",
     "date" : "9/12/2025 (Fri.)",
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "canceled",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "2",
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
+      "pnl" : "-0.30",
+      "status" : "closed",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "1",
       "pnl" : "",
       "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "3",
+      "tradeNo" : "1",
       "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "4",
+      "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "5",
-      "pnl" : "-0.81",
-      "status" : "closed",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "6",
+      "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "7",
-      "pnl" : "",
-      "status" : "canceled",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -91,12 +136,12 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "trading",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "canceled",
+      "tradeNo" : "1",
+      "pnl" : "0.38",
+      "status" : "closed",
       "tradeIcon" : "chart5m.png"
     } ]
   } ]
