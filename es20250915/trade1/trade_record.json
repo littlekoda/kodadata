@@ -1,16 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-14T18:50",
-  "side" : "long",
-  "setupPrice" : "6591.43",
-  "target" : "6592.30",
-  "stoploss" : "6586.61",
-  "entryTime" : "2025-09-14T18:30",
-  "entryPrice" : "6591.43",
-  "status" : "trading",
+  "id" : "20250915-01",
+  "setupTime" : "2025-09-14T21:05",
+  "side" : "short",
+  "setupPrice" : "6588.59",
+  "target" : "6586.24",
+  "stoploss" : "6589.25",
+  "status" : "canceled",
   "setupFile" : "trade_setups.md",
   "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Failed breakout with bearish divergence in RSI."
+  "notes" : "Reversed sharply after hitting VWAP."
 }

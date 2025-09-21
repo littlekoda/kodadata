@@ -6,32 +6,32 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
+      "tradeNo" : "2",
       "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
-      "pnl" : "2.83",
-      "status" : "closed",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
+      "tradeNo" : "3",
       "pnl" : "",
       "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "4",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "5",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "6",
+      "pnl" : "",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -40,7 +40,7 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -52,17 +52,17 @@
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "2",
       "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "3",
       "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "4",
       "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
@@ -73,20 +73,20 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "trading",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "2",
       "pnl" : "",
       "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "-2.14",
-      "status" : "closed",
+      "tradeNo" : "3",
+      "pnl" : "",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "4",
       "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
@@ -97,37 +97,37 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
-      "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "-0.30",
-      "status" : "closed",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "1",
+      "tradeNo" : "2",
       "pnl" : "",
       "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
+      "tradeNo" : "3",
+      "pnl" : "2.17",
+      "status" : "closed",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
+      "tradeNo" : "4",
       "pnl" : "",
-      "status" : "trading",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "5",
+      "pnl" : "",
+      "status" : "canceled",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "6",
+      "pnl" : "",
+      "status" : "canceled",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "7",
+      "pnl" : "",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -136,11 +136,11 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "canceled",
+      "status" : "setup",
       "tradeIcon" : "chart5m.png"
     }, {
-      "tradeNo" : "1",
-      "pnl" : "0.38",
+      "tradeNo" : "2",
+      "pnl" : "-1.75",
       "status" : "closed",
       "tradeIcon" : "chart5m.png"
     } ]

@@ -1,14 +1,14 @@
 {
   "id" : "20250911-01",
-  "setupTime" : "2025-09-11T09:15",
+  "setupTime" : "2025-09-11T07:55",
   "side" : "short",
-  "setupPrice" : "6554.83",
-  "target" : "6545.75",
-  "stoploss" : "6562.09",
-  "status" : "canceled",
+  "setupPrice" : "6552.73",
+  "target" : "6538.15",
+  "stoploss" : "6557.75",
+  "status" : "setup",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }

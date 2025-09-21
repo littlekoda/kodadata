@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-17T14:00",
-  "side" : "short",
-  "setupPrice" : "6614.27",
-  "target" : "6586.61",
-  "stoploss" : "6614.61",
+  "id" : "20250917-04",
+  "setupTime" : "2025-09-17T16:40",
+  "side" : "long",
+  "setupPrice" : "6607.81",
+  "target" : "6614.82",
+  "stoploss" : "6565.42",
   "status" : "canceled",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Reversed sharply after hitting VWAP."
+  "notes" : "Trend continuation after pullback to EMA20."
 }

@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-17T07:10",
-  "side" : "short",
-  "setupPrice" : "6606.52",
-  "target" : "6606.23",
-  "stoploss" : "6649.10",
+  "id" : "20250917-01",
+  "setupTime" : "2025-09-17T09:10",
+  "side" : "long",
+  "setupPrice" : "6610.05",
+  "target" : "6610.53",
+  "stoploss" : "6605.96",
   "status" : "setup",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+  "notes" : "Trend continuation after pullback to EMA20."
 }

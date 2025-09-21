@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-11T22:35",
-  "side" : "long",
-  "setupPrice" : "6588.72",
-  "target" : "6591.74",
-  "stoploss" : "6587.10",
-  "status" : "setup",
+  "id" : "20250912-02",
+  "setupTime" : "2025-09-11T23:30",
+  "side" : "short",
+  "setupPrice" : "6589.46",
+  "target" : "6589.28",
+  "stoploss" : "6593.45",
+  "status" : "canceled",
   "setupFile" : "trade_setups.md",
   "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Broke above resistance with increasing volume."
+  "notes" : "Trend continuation after pullback to EMA20."
 }

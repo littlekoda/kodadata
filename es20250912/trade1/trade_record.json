@@ -1,16 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-11T16:00",
+  "id" : "20250912-01",
+  "setupTime" : "2025-09-11T16:20",
   "side" : "long",
-  "setupPrice" : "6592.60",
-  "target" : "6594.75",
-  "stoploss" : "6591.22",
-  "entryTime" : "2025-09-11T15:55",
-  "entryPrice" : "6592.60",
-  "status" : "trading",
+  "setupPrice" : "6592.65",
+  "target" : "6596.08",
+  "stoploss" : "6590.32",
+  "status" : "setup",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
+  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Reversed sharply after hitting VWAP."
+  "notes" : "Trend continuation after pullback to EMA20."
 }

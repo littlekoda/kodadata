@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-17T10:05",
-  "side" : "long",
-  "setupPrice" : "6607.25",
-  "target" : "6611.45",
-  "stoploss" : "6607.07",
+  "id" : "20250917-02",
+  "setupTime" : "2025-09-17T09:10",
+  "side" : "short",
+  "setupPrice" : "6610.78",
+  "target" : "6602.76",
+  "stoploss" : "6616.26",
   "status" : "setup",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Failed breakout with bearish divergence in RSI."
+  "notes" : "Reversed sharply after hitting VWAP."
 }

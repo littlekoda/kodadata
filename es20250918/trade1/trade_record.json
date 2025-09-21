@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-17T14:50",
+  "id" : "20250918-01",
+  "setupTime" : "2025-09-17T15:30",
   "side" : "short",
-  "setupPrice" : "6564.46",
-  "target" : "6556.17",
-  "stoploss" : "6582.02",
-  "status" : "setup",
+  "setupPrice" : "6615.28",
+  "target" : "6604.83",
+  "stoploss" : "6616.76",
+  "status" : "canceled",
   "setupFile" : "trade_setups.md",
   "tags" : [ "trend-following", "pullback", "volume-spike" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+  "notes" : "Broke above resistance with increasing volume."
 }

@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-19T11:10",
-  "side" : "short",
-  "setupPrice" : "6693.67",
-  "target" : "6692.24",
-  "stoploss" : "6708.83",
-  "status" : "setup",
+  "id" : "20250919-02",
+  "setupTime" : "2025-09-19T10:35",
+  "side" : "long",
+  "setupPrice" : "6701.68",
+  "target" : "6704.69",
+  "stoploss" : "6697.81",
+  "status" : "canceled",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Trend continuation after pullback to EMA20."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }

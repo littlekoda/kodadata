@@ -1,14 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-12T05:50",
+  "id" : "20250912-05",
+  "setupTime" : "2025-09-12T05:10",
   "side" : "short",
-  "setupPrice" : "6585.09",
-  "target" : "6581.71",
-  "stoploss" : "6586.66",
+  "setupPrice" : "6583.18",
+  "target" : "6582.32",
+  "stoploss" : "6586.04",
   "status" : "canceled",
   "setupFile" : "trade_setups.md",
   "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Reversed sharply after hitting VWAP."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }

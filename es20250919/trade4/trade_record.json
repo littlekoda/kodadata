@@ -1,16 +1,14 @@
 {
-  "id" : "20250911-01",
-  "setupTime" : "2025-09-19T12:15",
-  "side" : "short",
-  "setupPrice" : "6706.84",
-  "target" : "6693.71",
-  "stoploss" : "6719.51",
-  "entryTime" : "2025-09-19T12:10",
-  "entryPrice" : "6706.84",
-  "status" : "trading",
+  "id" : "20250919-04",
+  "setupTime" : "2025-09-19T12:30",
+  "side" : "long",
+  "setupPrice" : "6708.49",
+  "target" : "6711.12",
+  "stoploss" : "6699.26",
+  "status" : "setup",
   "setupFile" : "trade_setups.md",
   "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Reversed sharply after hitting VWAP."
+  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
 }
