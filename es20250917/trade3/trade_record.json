@@ -1,0 +1,14 @@
+{
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-17T13:30",
+  "side" : "short",
+  "setupPrice" : "6598.46",
+  "target" : "6580.85",
+  "stoploss" : "6648.83",
+  "status" : "canceled",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Failed breakout with bearish divergence in RSI."
+}

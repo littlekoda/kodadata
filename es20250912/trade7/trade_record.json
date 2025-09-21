@@ -1,14 +1,16 @@
 {
-  "id" : "20250912-07",
+  "id" : "20250911-01",
   "setupTime" : "2025-09-12T10:20",
   "side" : "long",
-  "setupPrice" : "6591.59",
-  "target" : "6597.75",
-  "stoploss" : "6589.03",
-  "status" : "canceled",
+  "setupPrice" : "6593.41",
+  "target" : "6594.12",
+  "stoploss" : "6590.41",
+  "entryTime" : "2025-09-12T09:55",
+  "entryPrice" : "6593.41",
+  "status" : "trading",
   "setupFile" : "trade_setups.md",
   "tags" : [ "trend-following", "pullback", "volume-spike" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Broke above resistance with increasing volume."
+  "notes" : "Reversed sharply after hitting VWAP."
 }

@@ -1,14 +1,19 @@
 {
-  "id" : "20250911-02",
-  "setupTime" : "2025-09-12T06:20",
-  "side" : "short",
-  "setupPrice" : "6583.99",
-  "target" : "6580.89",
-  "stoploss" : "6587.76",
-  "status" : "canceled",
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-12T05:25",
+  "side" : "long",
+  "setupPrice" : "6583.90",
+  "target" : "6584.29",
+  "stoploss" : "6580.83",
+  "entryTime" : "2025-09-12T05:15",
+  "entryPrice" : "6583.90",
+  "exitTime" : "2025-09-12T05:30",
+  "exitPrice" : "6584.29",
+  "pnl" : "0.38",
+  "status" : "closed",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Trend continuation after pullback to EMA20."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }

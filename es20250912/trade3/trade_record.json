@@ -1,14 +1,19 @@
 {
-  "id" : "20250912-03",
-  "setupTime" : "2025-09-10T21:20",
-  "side" : "short",
-  "setupPrice" : "6544.93",
-  "target" : "6544.17",
-  "stoploss" : "6545.95",
-  "status" : "canceled",
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-11T00:30",
+  "side" : "long",
+  "setupPrice" : "6540.98",
+  "target" : "6547.55",
+  "stoploss" : "6540.68",
+  "entryTime" : "2025-09-11T00:20",
+  "entryPrice" : "6540.98",
+  "exitTime" : "2025-09-11T00:25",
+  "exitPrice" : "6540.68",
+  "pnl" : "-0.30",
+  "status" : "closed",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
+  "tags" : [ "breakout", "VWAP-bounce", "momentum" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Broke above resistance with increasing volume."
+  "notes" : "Reversed sharply after hitting VWAP."
 }

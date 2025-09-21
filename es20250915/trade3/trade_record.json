@@ -1,0 +1,19 @@
+{
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-15T06:15",
+  "side" : "long",
+  "setupPrice" : "6595.42",
+  "target" : "6595.44",
+  "stoploss" : "6593.28",
+  "entryTime" : "2025-09-15T04:05",
+  "entryPrice" : "6595.42",
+  "exitTime" : "2025-09-15T04:05",
+  "exitPrice" : "6593.28",
+  "pnl" : "-2.14",
+  "status" : "closed",
+  "setupFile" : "trade_setups.md",
+  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "notes" : "Failed breakout with bearish divergence in RSI."
+}

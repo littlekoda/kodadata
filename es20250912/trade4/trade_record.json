@@ -1,14 +1,16 @@
 {
-  "id" : "20250912-04",
-  "setupTime" : "2025-09-12T00:10",
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-11T23:40",
   "side" : "short",
-  "setupPrice" : "6591.72",
-  "target" : "6587.49",
-  "stoploss" : "6592.48",
-  "status" : "setup",
+  "setupPrice" : "6589.19",
+  "target" : "6588.83",
+  "stoploss" : "6590.12",
+  "entryTime" : "2025-09-11T21:40",
+  "entryPrice" : "6589.19",
+  "status" : "trading",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "trend-following", "pullback", "volume-spike" ],
+  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Trend continuation after pullback to EMA20."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }

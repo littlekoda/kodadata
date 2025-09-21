@@ -1,19 +1,14 @@
 {
-  "id" : "20250919-06",
-  "setupTime" : "2025-09-19T13:15",
+  "id" : "20250911-01",
+  "setupTime" : "2025-09-19T13:10",
   "side" : "long",
-  "setupPrice" : "6709.51",
-  "target" : "6718.39",
-  "stoploss" : "6705.54",
-  "entryTime" : "2025-09-19T12:20",
-  "entryPrice" : "6709.51",
-  "exitTime" : "2025-09-19T12:05",
-  "exitPrice" : "6705.54",
-  "pnl" : "-3.97",
-  "status" : "closed",
+  "setupPrice" : "6709.15",
+  "target" : "6714.30",
+  "stoploss" : "6706.20",
+  "status" : "setup",
   "setupFile" : "trade_setups.md",
-  "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
+  "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Failed breakout with bearish divergence in RSI."
+  "notes" : "Broke above resistance with increasing volume."
 }

@@ -1,14 +1,14 @@
 {
   "id" : "20250911-01",
-  "setupTime" : "2025-09-11T22:35",
+  "setupTime" : "2025-09-17T10:05",
   "side" : "long",
-  "setupPrice" : "6588.72",
-  "target" : "6591.74",
-  "stoploss" : "6587.10",
+  "setupPrice" : "6607.25",
+  "target" : "6611.45",
+  "stoploss" : "6607.07",
   "status" : "setup",
   "setupFile" : "trade_setups.md",
   "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Broke above resistance with increasing volume."
+  "notes" : "Failed breakout with bearish divergence in RSI."
 }
