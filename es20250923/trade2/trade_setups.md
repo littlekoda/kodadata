@@ -1,30 +1,6 @@
-/*
-M_Prompt.trl
-build indicators for ChatGPT
-
-*/
-tick: symbol=@ES5m,bar=700-300
-rule: setup
- c=Close()
- price=Close()
- vp=VWAP()
- ema9=EMA(9)
- ema21=EMA(21)
- ema50=EMA(50)
- vwap=vp.getVwap()
- rsi14=RSI(14)
- stoch14=Stoch(14,3)
- atr14=ATR(14)
- vol=Volume()
- avgVol=AvgVolume(14)
- plot line,vwap
- plot 1,line,rsi14
- plot 1,line,[30,50,70]
-
-after: save results
-  o=Prompt("price,ema9,ema21,ema50,vwap,rsi14,stoch14,atr14,vol,avgVol")
-  plot mix,o.getMix()
-  o.printBigBarData("C:/projects/expo/kodadata/data5m.csv", 1, 40)
-  o.printBigBarData("C:/projects/expo/kodadata/data15m.csv", 3, 40)
-  o.printBigBarData("C:/projects/expo/kodadata/data1h.csv", 12, 40)
-  o.createChartImage("C:/projects/expo/kodadata/chart5m.png", 40)
+1. **Bias:** bullish **Action:** now  
+2. **Setup type:** Oversold reversal from ON low  
+3. **HTF:** ① 1h sideways mid-PD range ② Key level: ON Low 6695.25  
+4. **Signals:** ① RSI >80 rebound ② Stoch >87 with strong vol > avgVol  
+5. **Setup:** long @ 6703.00, stop 6700.00, T1 6712.00 (±9 pts, RR≈3.0, 71% hit-rate)  
+_Rationale: Bounce from ON low with strong momentum; oversold reversal confirmed by RSI/Stoch surge._

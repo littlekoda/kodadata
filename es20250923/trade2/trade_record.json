@@ -1,6 +1,10 @@
 {
+  "side" : "long",
+  "entry" : "6703.00",
+  "stoploss" : "6700.00",
+  "target" : "6712.00",
   "id" : "20250923-02",
-  "setupTime" : "2025-09-22T02:25",
+  "setupTime" : "2025-09-22T06:15",
   "status" : "setup",
   "ticker" : "ES",
   "timeframe" : "5m",
