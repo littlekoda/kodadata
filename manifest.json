@@ -31,10 +31,15 @@
     }, {
       "tradeNo" : "6",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "7",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "8",
       "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
