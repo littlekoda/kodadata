@@ -4,7 +4,7 @@
   "side" : "long",
   "setupPrice" : "6695.21",
   "target" : "6703.55",
-  "stoploss" : "6692.67",
+  "stoploss" : "6699.66",
   "status" : "canceled",
   "setupFile" : "trade_setups.md",
   "tags" : [ "trend-following", "pullback", "volume-spike" ],

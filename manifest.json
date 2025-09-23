@@ -1,6 +1,19 @@
 {
   "githubRoot" : "https://raw.githubusercontent.com/littlekoda/kodadata/main",
   "days" : [ {
+    "key" : "es20250923",
+    "date" : "9/23/2025 (Tue.)",
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
+  }, {
+    "key" : "es20250922",
+    "date" : "9/22/2025 (Mon.)",
+    "trades" : [ ]
+  }, {
     "key" : "es20250919",
     "date" : "9/19/2025 (Fri.)",
     "trades" : [ {
@@ -40,7 +53,7 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "canceled",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
