@@ -1,6 +1,6 @@
-1. **Bias:** neutral **Action:** wait  
-2. **Setup type:** Failed breakout / chop zone  
-3. **HTF:** ① 1h sideways mid-range ② Key level: PDC 6719.75  
-4. **Signals:** ① RSI cooled from 90 → 47 ② Stoch dropping <30 with vol spike  
-5. **Setup:** no trade — wait for break of 6695.25 or reclaim of 6712.00 for clarity  
-_Rationale: Overbought RSI retraced sharply; signals mixed, better to wait for directional confirmation._
+1. **Bias:** bullish **Action:** now  
+2. **Setup type:** Reversal continuation toward VWAP  
+3. **HTF:** ① 1h sideways mid-range ② Key level: ON High 6721.25  
+4. **Signals:** ① RSI >70 breakout ② Stoch >90 with rising vol > avgVol  
+5. **Setup:** long @ 6704.00, stop 6700.75, T1 6714.00 (±10 pts, RR≈2.9, 72% hit-rate)  
+_Rationale: Momentum shift confirmed by RSI/Stoch surge; price reclaiming EMAs and targeting VWAP/ON high._
