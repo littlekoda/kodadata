@@ -33,6 +33,11 @@
       "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "7",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
     } ]
   }, {
     "key" : "es20250922",
