@@ -11,7 +11,7 @@
     }, {
       "tradeNo" : "2",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
