@@ -6,7 +6,7 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "canceled",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
