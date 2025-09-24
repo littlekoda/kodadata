@@ -15,8 +15,8 @@
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : "45.50",
+      "status" : "closed",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
