@@ -6,6 +6,11 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
+      "status" : "trading",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "2",
+      "pnl" : "",
       "status" : "setup",
       "tradeIcon" : "chart5m.png"
     } ]
@@ -43,27 +48,27 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "5",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "6",
@@ -78,7 +83,7 @@
     }, {
       "tradeNo" : "8",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -101,17 +106,17 @@
     }, {
       "tradeNo" : "3",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "5",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "6",

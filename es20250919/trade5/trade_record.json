@@ -5,10 +5,12 @@
   "setupPrice" : "6709.16",
   "target" : "6715.77",
   "stoploss" : "6699.61",
-  "status" : "setup",
+  "status" : "trading",
   "setupFile" : "trade_setups.md",
   "tags" : [ "mean-reversion", "support-test", "RSI-divergence" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Trend continuation after pullback to EMA20."
+  "notes" : "Trend continuation after pullback to EMA20.",
+  "entry" : "6709.16",
+  "entryTime" : "2025-09-19T13:20"
 }

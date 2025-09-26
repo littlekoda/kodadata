@@ -5,10 +5,12 @@
   "setupPrice" : "6708.49",
   "target" : "6711.12",
   "stoploss" : "6699.26",
-  "status" : "setup",
+  "status" : "trading",
   "setupFile" : "trade_setups.md",
   "tags" : [ "bullish-reversal", "EMA-stack", "oversold-RSI" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume.",
+  "entry" : "6708.49",
+  "entryTime" : "2025-09-19T12:35"
 }

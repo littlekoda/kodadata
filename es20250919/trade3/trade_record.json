@@ -5,10 +5,12 @@
   "setupPrice" : "6709.77",
   "target" : "6703.45",
   "stoploss" : "6718.57",
-  "status" : "setup",
+  "status" : "trading",
   "setupFile" : "trade_setups.md",
   "tags" : [ "trend-following", "pullback", "volume-spike" ],
   "ticker" : "ES",
   "timeframe" : "5m",
-  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume."
+  "notes" : "Pulled back to EMA50 and reclaimed PDC with strong volume.",
+  "entry" : "6709.77",
+  "entryTime" : "2025-09-19T14:35"
 }
