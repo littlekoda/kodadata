@@ -1,12 +1,14 @@
 {
   "side" : "long",
-  "entry" : "6662.00",
+  "setupPrice" : "6662.00",
   "stoploss" : "6652.50",
   "target" : "6677.50",
   "id" : "20250925-01",
   "setupTime" : "2025-09-25T09:20",
-  "status" : "setup",
+  "status" : "trading",
   "ticker" : "ES",
   "timeframe" : "5m",
-  "setupFile" : "trade_setups.md"
+  "setupFile" : "trade_setups.md",
+  "entryTime" : "2025-09-25T09:25",
+  "entry" : "6662.0"
 }

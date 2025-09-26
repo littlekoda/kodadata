@@ -1,6 +1,6 @@
 {
   "side" : "short",
-  "entry" : "6712.00",
+  "setupPrice" : "6712.00",
   "stoploss" : "6717.00",
   "target" : "6700.00",
   "id" : "20250923-08",
