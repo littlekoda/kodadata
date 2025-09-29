@@ -1,6 +1,15 @@
 {
   "githubRoot" : "https://raw.githubusercontent.com/littlekoda/kodadata/main",
   "days" : [ {
+    "key" : "es20250929",
+    "date" : "9/29/2025 (Mon.)",
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
+  }, {
     "key" : "es20250927",
     "date" : "9/27/2025 (Sat.)",
     "trades" : [ {
