@@ -1,6 +1,15 @@
 {
   "githubRoot" : "https://raw.githubusercontent.com/littlekoda/kodadata/main",
   "days" : [ {
+    "key" : "es20251001",
+    "date" : "10/1/2025 (Wed.)",
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
+  }, {
     "key" : "es20250929",
     "date" : "9/29/2025 (Mon.)",
     "trades" : [ {
@@ -98,154 +107,6 @@
       "tradeNo" : "8",
       "pnl" : "",
       "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250922",
-    "date" : "9/22/2025 (Mon.)",
-    "trades" : [ ]
-  }, {
-    "key" : "es20250919",
-    "date" : "9/19/2025 (Fri.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "5",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "6",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250918",
-    "date" : "9/18/2025 (Thu.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250917",
-    "date" : "9/17/2025 (Wed.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250915",
-    "date" : "9/15/2025 (Mon.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250912",
-    "date" : "9/12/2025 (Fri.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "2.17",
-      "status" : "closed",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "5",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "6",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "7",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250911",
-    "date" : "9/11/2025 (Thu.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "-1.75",
-      "status" : "closed",
       "tradeIcon" : "chart5m.png"
     } ]
   } ]
