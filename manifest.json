@@ -1,12 +1,21 @@
 {
   "githubRoot" : "https://raw.githubusercontent.com/littlekoda/kodadata/main",
   "days" : [ {
+    "key" : "es20251002",
+    "date" : "10/2/2025 (Thu.)",
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "",
+      "status" : "setup",
+      "tradeIcon" : "chart5m.png"
+    } ]
+  }, {
     "key" : "es20251001",
     "date" : "10/1/2025 (Wed.)",
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -15,12 +24,12 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -34,7 +43,7 @@
     }, {
       "tradeNo" : "2",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -61,50 +70,6 @@
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250923",
-    "date" : "9/23/2025 (Tue.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "5",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "6",
-      "pnl" : "",
-      "status" : "canceled",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "7",
-      "pnl" : "",
-      "status" : "setup",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "8",
       "pnl" : "",
       "status" : "trading",
       "tradeIcon" : "chart5m.png"
