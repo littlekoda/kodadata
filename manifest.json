@@ -2,22 +2,41 @@
   "githubRoot" : "https://raw.githubusercontent.com/littlekoda/kodadata/main",
   "localRoot" : "C:/projects/expo/kodadata",
   "days" : [ {
-    "key" : "es20251002",
-    "date" : "10/2/2025 (Thu.)",
+    "key" : "es20251003",
+    "date" : "10/3/2025 (Fri.)",
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
       "status" : "setup",
+      "setupTime" : "2025-10-02T22:40",
+      "tradeIcon" : "chart5m.png"
+    } ]
+  }, {
+    "key" : "es20251002",
+    "date" : "10/2/2025 (Thu.)",
+    "trades" : [ {
+      "tradeNo" : "1",
+      "pnl" : "-225.0",
+      "status" : "setup",
+      "setupTime" : "2025-10-02T08:50",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : "-225.0",
+      "status" : "closed",
+      "setupTime" : "2025-10-02T08:50",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
+      "pnl" : "-150.0",
+      "status" : "closed",
+      "setupTime" : "2025-10-02T08:50",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "4",
       "pnl" : "",
       "status" : "setup",
+      "setupTime" : "2025-10-02T10:35",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -25,8 +44,9 @@
     "date" : "10/1/2025 (Wed.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "450.0",
+      "status" : "closed",
+      "setupTime" : "2025-10-01T14:35",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -34,13 +54,15 @@
     "date" : "9/29/2025 (Mon.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "-300.0",
+      "status" : "closed",
+      "setupTime" : "2025-09-29T10:20",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "600.0",
+      "status" : "closed",
+      "setupTime" : "2025-09-29T11:30",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -48,13 +70,15 @@
     "date" : "9/27/2025 (Sat.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "-175.0",
+      "status" : "closed",
+      "setupTime" : "2025-09-26T15:15",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "-175.0",
+      "status" : "closed",
+      "setupTime" : "2025-09-26T15:15",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -62,27 +86,9 @@
     "date" : "9/26/2025 (Fri.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    } ]
-  }, {
-    "key" : "es20250925",
-    "date" : "9/25/2025 (Thu.)",
-    "trades" : [ {
-      "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "trading",
-      "tradeIcon" : "chart5m.png"
-    }, {
-      "tradeNo" : "3",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : "375.0",
+      "status" : "closed",
+      "setupTime" : "2025-09-26T12:25",
       "tradeIcon" : "chart5m.png"
     } ]
   } ]

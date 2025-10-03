@@ -8,5 +8,9 @@
   "status" : "setup",
   "ticker" : "ES",
   "timeframe" : "5m",
-  "setupFile" : "trade_setups.md"
+  "setupFile" : "trade_setups.md",
+  "entry" : "6781.25",
+  "entryTime" : "2025-10-02T08:55",
+  "closeTime" : "2025-10-02T09:30",
+  "pnl" : -225.0
 }
