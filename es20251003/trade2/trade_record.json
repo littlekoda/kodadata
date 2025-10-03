@@ -5,8 +5,10 @@
   "target" : "6782",
   "id" : "20251003-02",
   "setupTime" : "2025-10-02T23:35",
-  "status" : "setup",
+  "status" : "trading",
   "ticker" : "ES",
   "timeframe" : "5m",
-  "setupFile" : "trade_setups.md"
+  "setupFile" : "trade_setups.md",
+  "entry" : "6777.75",
+  "entryTime" : "2025-10-02T23:45"
 }
