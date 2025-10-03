@@ -5,10 +5,12 @@
   "target" : "6782",
   "id" : "20251003-01",
   "setupTime" : "2025-10-02T22:40",
-  "status" : "trading",
+  "status" : "closed",
   "ticker" : "ES",
   "timeframe" : "5m",
   "setupFile" : "trade_setups.md",
   "entry" : "6777.0",
-  "entryTime" : "2025-10-02T22:45"
+  "entryTime" : "2025-10-02T22:45",
+  "closeTime" : "2025-10-03T01:05",
+  "pnl" : 250.0
 }
