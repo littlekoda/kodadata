@@ -36,8 +36,8 @@
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "6",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : -250.0,
+      "status" : "closed",
       "setupTime" : "2025-10-03T09:45",
       "tradeIcon" : "chart5m.png"
     } ]
