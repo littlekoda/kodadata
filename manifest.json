@@ -24,14 +24,14 @@
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
-      "pnl" : "",
-      "status" : "trading",
+      "pnl" : 287.5,
+      "status" : "closed",
       "setupTime" : "2025-10-03T08:20",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "5",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : 312.5,
+      "status" : "closed",
       "setupTime" : "2025-10-03T09:15",
       "tradeIcon" : "chart5m.png"
     }, {
