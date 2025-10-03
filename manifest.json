@@ -7,8 +7,14 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-02T22:40",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "2",
+      "pnl" : "",
+      "status" : "setup",
+      "setupTime" : "2025-10-02T23:35",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -17,7 +23,7 @@
     "trades" : [ {
       "tradeNo" : "1",
       "pnl" : "-225.0",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-02T08:50",
       "tradeIcon" : "chart5m.png"
     }, {
@@ -35,7 +41,7 @@
     }, {
       "tradeNo" : "4",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-02T10:35",
       "tradeIcon" : "chart5m.png"
     } ]
