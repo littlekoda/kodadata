@@ -6,21 +6,27 @@
     "date" : "10/3/2025 (Fri.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : 250.0,
+      "pnl" : "250.0",
       "status" : "closed",
       "setupTime" : "2025-10-02T22:40",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
-      "pnl" : 212.5,
+      "pnl" : "212.5",
       "status" : "closed",
       "setupTime" : "2025-10-02T23:35",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
-      "pnl" : 212.5,
+      "pnl" : "212.5",
       "status" : "closed",
       "setupTime" : "2025-10-02T23:45",
+      "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "4",
+      "pnl" : "",
+      "status" : "setup",
+      "setupTime" : "2025-10-03T08:20",
       "tradeIcon" : "chart5m.png"
     } ]
   }, {
@@ -28,7 +34,7 @@
     "date" : "10/2/2025 (Thu.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : -225.0,
+      "pnl" : "-225.0",
       "status" : "closed",
       "setupTime" : "2025-10-02T08:50",
       "tradeIcon" : "chart5m.png"
@@ -46,7 +52,7 @@
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
-      "pnl" : -150.0,
+      "pnl" : "-150.0",
       "status" : "closed",
       "setupTime" : "2025-10-02T10:35",
       "tradeIcon" : "chart5m.png"
