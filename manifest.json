@@ -19,7 +19,7 @@
     }, {
       "tradeNo" : "3",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-02T23:45",
       "tradeIcon" : "chart5m.png"
     } ]
