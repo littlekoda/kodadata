@@ -6,26 +6,26 @@
     "date" : "10/6/2025 (Mon.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : 350.0,
+      "status" : "closed",
       "setupTime" : "2025-10-06T13:10",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "2",
-      "pnl" : "",
-      "status" : "setup",
+      "pnl" : 500.0,
+      "status" : "closed",
       "setupTime" : "2025-10-06T14:00",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "3",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-06T15:20",
       "tradeIcon" : "chart5m.png"
     }, {
       "tradeNo" : "4",
       "pnl" : "",
-      "status" : "setup",
+      "status" : "trading",
       "setupTime" : "2025-10-06T16:00",
       "tradeIcon" : "chart5m.png"
     } ]
