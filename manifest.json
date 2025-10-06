@@ -6,7 +6,7 @@
     "date" : "10/6/2025 (Mon.)",
     "trades" : [ {
       "tradeNo" : "1",
-      "pnl" : 350.0,
+      "pnl" : -150.0,
       "status" : "closed",
       "setupTime" : "2025-10-06T13:10",
       "tradeIcon" : "chart5m.png"
