@@ -1,0 +1,12 @@
+{
+  "side" : "short",
+  "setupPrice" : "6796",
+  "stoploss" : "6801",
+  "target" : "6786",
+  "id" : "20251006-02",
+  "setupTime" : "2025-10-06T14:00",
+  "status" : "setup",
+  "ticker" : "ES",
+  "timeframe" : "5m",
+  "setupFile" : "trade_setups.md"
+}
