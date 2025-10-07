@@ -11,6 +11,13 @@
       "status" : "setup",
       "setupTime" : "2025-10-06T19:20",
       "tradeIcon" : "chart5m.png"
+    }, {
+      "tradeNo" : "2",
+      "side" : "short",
+      "pnl" : "",
+      "status" : "setup",
+      "setupTime" : "2025-10-07T09:10",
+      "tradeIcon" : "chart5m.png"
     } ]
   }, {
     "key" : "es20251006",
